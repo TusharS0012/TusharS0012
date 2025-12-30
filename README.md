@@ -8,8 +8,6 @@
 
 </div>
 
-<br/>
-
 ## ✦ About Me
 
 I’m a **software engineer** with experience building **scalable web applications, cloud-native systems, and data-driven platforms**.  
@@ -17,7 +15,6 @@ I work across the full stack — from frontend interfaces and backend APIs to da
 
 I enjoy solving real engineering problems related to **scalability, reliability, and performance**, and turning ideas into **production-ready systems**.
 
-<br/>
 
 ## ▦ Core Skills
 
@@ -26,14 +23,6 @@ I enjoy solving real engineering problems related to **scalability, reliability,
 - **Cloud & Distributed Systems**
 - **Data Engineering & Analytics**
 - **DevOps, CI/CD & Containerization**
-
-<br/>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=16&duration=2500&pause=500&color=94A3B8&center=true&vCenter=true&width=600&lines=Designing+Scalable+Systems;Building+Cloud-Native+Applications;Turning+Ideas+Into+Production+Software" />
-</p>
-
-<br/>
 
 ## ⬡ Tech Stack
 
@@ -72,8 +61,6 @@ I enjoy solving real engineering problems related to **scalability, reliability,
 - **Data-heavy dashboards & analytics**
 - AI-enabled systems and **LLM integrations**
 - Performance optimization & scalability
-
-<br/>
 
 ## ◎ Connect With Me
 
