@@ -10,7 +10,7 @@
 
 <br/>
 
-## 👋 About Me
+## ✦ About Me
 
 I’m a **software engineer** with experience building **scalable web applications, cloud-native systems, and data-driven platforms**.  
 I work across the full stack — from frontend interfaces and backend APIs to databases, deployments, and infrastructure.
@@ -19,7 +19,7 @@ I enjoy solving real engineering problems related to **scalability, reliability,
 
 <br/>
 
-## 🛠️ Core Skills
+## ▦ Core Skills
 
 - **Full-Stack Web Development**
 - **Backend APIs & System Design**
@@ -35,7 +35,7 @@ I enjoy solving real engineering problems related to **scalability, reliability,
 
 <br/>
 
-## 🧠 Tech Stack
+## ⬡ Tech Stack
 
 <p align="center">
 
@@ -45,23 +45,17 @@ I enjoy solving real engineering problems related to **scalability, reliability,
 <img src="https://img.shields.io/badge/Python-0f172a?style=for-the-badge&logo=python&logoColor=22c55e"/>
 <img src="https://img.shields.io/badge/Java-0f172a?style=for-the-badge&logo=openjdk&logoColor=f97316"/>
 
-<br/><br/>
-
 <!-- Frontend -->
 <img src="https://img.shields.io/badge/React-020617?style=for-the-badge&logo=react&logoColor=61dafb"/>
 <img src="https://img.shields.io/badge/Next.js-020617?style=for-the-badge&logo=nextdotjs&logoColor=ffffff"/>
 <img src="https://img.shields.io/badge/TailwindCSS-020617?style=for-the-badge&logo=tailwindcss&logoColor=38bdf8"/>
 <img src="https://img.shields.io/badge/Framer%20Motion-020617?style=for-the-badge&logo=framer&logoColor=6366f1"/>
 
-<br/><br/>
-
 <!-- Backend & Data -->
 <img src="https://img.shields.io/badge/FastAPI-020617?style=for-the-badge&logo=fastapi&logoColor=10b981"/>
 <img src="https://img.shields.io/badge/Node.js-020617?style=for-the-badge&logo=node.js&logoColor=22c55e"/>
 <img src="https://img.shields.io/badge/PostgreSQL-020617?style=for-the-badge&logo=postgresql&logoColor=38bdf8"/>
 <img src="https://img.shields.io/badge/MySQL-020617?style=for-the-badge&logo=mysql&logoColor=facc15"/>
-
-<br/><br/>
 
 <!-- Cloud & DevOps -->
 <img src="https://img.shields.io/badge/Docker-020617?style=for-the-badge&logo=docker&logoColor=38bdf8"/>
@@ -71,9 +65,7 @@ I enjoy solving real engineering problems related to **scalability, reliability,
 
 </p>
 
-<br/>
-
-## 🚀 What I Work On
+## ◆ What I Work On
 
 - Production-grade **web applications**
 - **Cloud-deployed** backend systems
@@ -83,7 +75,7 @@ I enjoy solving real engineering problems related to **scalability, reliability,
 
 <br/>
 
-## 🌐 Connect With Me
+## ◎ Connect With Me
 
 <div align="center">
 
@@ -103,9 +95,7 @@ I enjoy solving real engineering problems related to **scalability, reliability,
 
 <div align="center">
 
-⭐ *Focused on building reliable software that scales in the real world.*
-
-<br/><br/>
+✧ Focused on building reliable software that scales in the real world.
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:6366f1&height=120&section=footer"/>
 
