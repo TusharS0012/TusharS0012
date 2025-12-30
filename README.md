@@ -49,8 +49,8 @@ I enjoy solving real engineering problems related to **scalability, reliability,
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=tusharsharma&show_icons=true&theme=transparent&hide_border=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tusharsharma&layout=compact&theme=transparent&hide_border=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=TusharS0012&show_icons=true&theme=transparent&hide_border=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TusharS0012&layout=compact&theme=transparent&hide_border=true" />
 
 </div>
 
@@ -59,7 +59,7 @@ I enjoy solving real engineering problems related to **scalability, reliability,
 ## 🔥 GitHub Streak
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=tusharsharma&theme=transparent&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=TusharS0012&theme=transparent&hide_border=true" />
 </div>
 
 ---
@@ -74,7 +74,7 @@ I enjoy solving real engineering problems related to **scalability, reliability,
 <a href="https://www.dotbuilder.online">
   <img src="https://img.shields.io/badge/Portfolio-111827?style=flat&logo=vercel&logoColor=white"/>
 </a>
-<a href="mailto:YOUR_EMAIL@gmail.com">
+<a href="mailto:tusharsharma01011@gmail.com">
   <img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white"/>
 </a>
 
